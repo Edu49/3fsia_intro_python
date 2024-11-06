@@ -1,4 +1,4 @@
- # Divisone tra due numeri
+# Divisione tra due numeri
 
 Implementiamo in python il seguente algoritmo, scritto in *pseudocodifica:*
 
@@ -14,7 +14,9 @@ se b != 0:
 altrimenti:
   scrivi "Errore: il denominatore non può essere zero."
 ```
+
 In python l'algoritmo si scrive così
+
 ```
 ... TODO ...
 ```
