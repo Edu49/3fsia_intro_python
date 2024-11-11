@@ -5,7 +5,6 @@ b = float(input("Inserisci il denominatore: "))
 
 if b != 0:
     divisione = a / b
-    print("La divisione è: ")
-    print(divisione)
+    print(f"La divisione è: {divisione} ")
 else:
     print("Errore: il denominatore non può essere zero.")
