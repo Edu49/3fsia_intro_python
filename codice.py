@@ -1,5 +1,7 @@
-a = int(input("Inserisci il numeratore: "))
-b = int(input("Inserisci il denominatore: "))
+#Programma che chiede in input due numeri e calcola il quoziente
+
+a = float(input("Inserisci il numeratore: "))
+b = float(input("Inserisci il denominatore: "))
 
 if b != 0:
     divisione = a / b
